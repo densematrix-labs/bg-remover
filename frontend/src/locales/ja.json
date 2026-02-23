@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "pricing": "料金"
+  },
+  "hero": {
+    "title": "背景を即座に削除",
+    "subtitle": "AIによる背景削除。無料、高速、登録不要。最高のPhotoroom代替ツール。",
+    "features": {
+      "free": "無料で利用",
+      "noSignup": "登録不要",
+      "noWatermark": "透かしなし"
+    }
+  },
+  "upload": {
+    "title": "画像をここにドロップ",
+    "hint": "またはクリックして選択 (PNG, JPG, WEBP)"
+  },
+  "preview": {
+    "original": "オリジナル",
+    "result": "結果",
+    "placeholder": "「背景を削除」をクリックして結果を確認"
+  },
+  "actions": {
+    "removeBackground": "背景を削除",
+    "processing": "処理中...",
+    "download": "PNGをダウンロード",
+    "tryAnother": "別の画像を試す"
+  },
+  "status": {
+    "remainingTokens": "残り{{count}}回の無料利用"
+  },
+  "errors": {
+    "invalidFile": "有効な画像ファイルをアップロードしてください",
+    "processingFailed": "処理に失敗しました。もう一度お試しください。"
+  },
+  "seo": {
+    "title": "BgGoneを選ぶ理由",
+    "description": "BgGoneはPhotoroomの最高の無料代替ツールです。AIで数秒で任意の画像の背景を削除できます。",
+    "features": {
+      "instant": {
+        "title": "即時結果",
+        "description": "AIが数秒で画像を処理。待ち時間なし。"
+      },
+      "free": {
+        "title": "本当に無料",
+        "description": "隠れた料金なし、透かしなし、強制登録なし。"
+      },
+      "quality": {
+        "title": "プロ品質",
+        "description": "高度なAIがきれいなエッジと正確な切り抜きを実現。"
+      }
+    }
+  },
+  "pricing": {
+    "title": "シンプルで透明な料金",
+    "subtitle": "一度の支払いで永久に利用可能。サブスクリプションなし。",
+    "popular": "人気No.1",
+    "comparison": {
+      "title": "BgGone vs Photoroom",
+      "feature": "機能",
+      "freeUses": "無料利用回数",
+      "signup": "登録必須",
+      "watermark": "無料版の透かし",
+      "paidPrice": "有料価格",
+      "yes": "はい",
+      "no": "いいえ",
+      "freeTierYes": "あり（エクスポート時）"
+    }
+  },
+  "payment": {
+    "success": {
+      "title": "支払い完了！",
+      "message": "トークンがアカウントに追加されました。",
+      "tokensAdded": "追加されたトークン",
+      "cta": "背景削除を始める"
+    }
+  },
+  "footer": {
+    "tagline": "無料AI背景削除ツール",
+    "alternative": "より良いPhotoroom代替ツール。無料で背景削除、登録不要。"
+  }
+}

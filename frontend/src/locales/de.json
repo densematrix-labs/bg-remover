@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "pricing": "Preise"
+  },
+  "hero": {
+    "title": "Hintergrund Sofort Entfernen",
+    "subtitle": "KI-gestützte Hintergrundentfernung. Kostenlos, schnell, keine Anmeldung erforderlich. Die beste Photoroom-Alternative.",
+    "features": {
+      "free": "Kostenlos nutzbar",
+      "noSignup": "Keine Anmeldung nötig",
+      "noWatermark": "Kein Wasserzeichen"
+    }
+  },
+  "upload": {
+    "title": "Bild hier ablegen",
+    "hint": "oder klicken zum Auswählen (PNG, JPG, WEBP)"
+  },
+  "preview": {
+    "original": "Original",
+    "result": "Ergebnis",
+    "placeholder": "Klicken Sie auf 'Hintergrund entfernen'"
+  },
+  "actions": {
+    "removeBackground": "Hintergrund Entfernen",
+    "processing": "Verarbeitung...",
+    "download": "PNG Herunterladen",
+    "tryAnother": "Anderes Bild Versuchen"
+  },
+  "status": {
+    "remainingTokens": "{{count}} kostenlose Nutzungen übrig"
+  },
+  "errors": {
+    "invalidFile": "Bitte laden Sie eine gültige Bilddatei hoch",
+    "processingFailed": "Verarbeitung fehlgeschlagen. Bitte versuchen Sie es erneut."
+  },
+  "seo": {
+    "title": "Warum BgGone wählen?",
+    "description": "BgGone ist die beste kostenlose Alternative zu Photoroom. Entfernen Sie Hintergründe von jedem Bild in Sekunden mit unserem KI-Tool.",
+    "features": {
+      "instant": {
+        "title": "Sofortige Ergebnisse",
+        "description": "Unsere KI verarbeitet Ihre Bilder in Sekunden, nicht Minuten."
+      },
+      "free": {
+        "title": "Wirklich Kostenlos",
+        "description": "Keine versteckten Gebühren, keine Wasserzeichen, keine erzwungene Anmeldung."
+      },
+      "quality": {
+        "title": "Profi-Qualität",
+        "description": "Fortschrittliche KI sorgt für saubere Kanten und präzise Ausschnitte."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Einfache, Transparente Preise",
+    "subtitle": "Einmal zahlen, für immer nutzen. Keine Abonnements.",
+    "popular": "Beliebteste",
+    "comparison": {
+      "title": "BgGone vs Photoroom",
+      "feature": "Funktion",
+      "freeUses": "Kostenlose Nutzungen",
+      "signup": "Anmeldung erforderlich",
+      "watermark": "Wasserzeichen bei Kostenlos",
+      "paidPrice": "Bezahlte Preise",
+      "yes": "Ja",
+      "no": "Nein",
+      "freeTierYes": "Ja (beim Export)"
+    }
+  },
+  "payment": {
+    "success": {
+      "title": "Zahlung Erfolgreich!",
+      "message": "Ihre Tokens wurden Ihrem Konto hinzugefügt.",
+      "tokensAdded": "Hinzugefügte Tokens",
+      "cta": "Hintergründe Entfernen Starten"
+    }
+  },
+  "footer": {
+    "tagline": "Kostenloser KI-Hintergrundentferner",
+    "alternative": "Eine bessere Photoroom-Alternative. Kostenlose Hintergrundentfernung, keine Anmeldung erforderlich."
+  }
+}

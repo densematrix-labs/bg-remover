@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "pricing": "Precios"
+  },
+  "hero": {
+    "title": "Elimina el Fondo al Instante",
+    "subtitle": "Eliminación de fondo con IA. Gratis, rápido, sin registro. La mejor alternativa a Photoroom.",
+    "features": {
+      "free": "Gratis",
+      "noSignup": "Sin registro",
+      "noWatermark": "Sin marca de agua"
+    }
+  },
+  "upload": {
+    "title": "Suelta tu imagen aquí",
+    "hint": "o haz clic para seleccionar (PNG, JPG, WEBP)"
+  },
+  "preview": {
+    "original": "Original",
+    "result": "Resultado",
+    "placeholder": "Haz clic en 'Eliminar Fondo' para ver el resultado"
+  },
+  "actions": {
+    "removeBackground": "Eliminar Fondo",
+    "processing": "Procesando...",
+    "download": "Descargar PNG",
+    "tryAnother": "Probar Otra Imagen"
+  },
+  "status": {
+    "remainingTokens": "{{count}} usos gratuitos restantes"
+  },
+  "errors": {
+    "invalidFile": "Por favor sube un archivo de imagen válido",
+    "processingFailed": "Error al procesar. Por favor intenta de nuevo."
+  },
+  "seo": {
+    "title": "¿Por Qué Elegir BgGone?",
+    "description": "BgGone es la mejor alternativa gratuita a Photoroom. Elimina fondos de cualquier imagen en segundos con nuestra herramienta de IA.",
+    "features": {
+      "instant": {
+        "title": "Resultados Instantáneos",
+        "description": "Nuestra IA procesa tus imágenes en segundos, no minutos."
+      },
+      "free": {
+        "title": "Realmente Gratis",
+        "description": "Sin tarifas ocultas, sin marcas de agua, sin registro forzado."
+      },
+      "quality": {
+        "title": "Calidad Profesional",
+        "description": "La IA avanzada garantiza bordes limpios y recortes precisos."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Precios Simples y Transparentes",
+    "subtitle": "Paga una vez, usa para siempre. Sin suscripciones.",
+    "popular": "Más Popular",
+    "comparison": {
+      "title": "BgGone vs Photoroom",
+      "feature": "Característica",
+      "freeUses": "Usos Gratuitos",
+      "signup": "Registro Requerido",
+      "watermark": "Marca de Agua Gratis",
+      "paidPrice": "Precio de Pago",
+      "yes": "Sí",
+      "no": "No",
+      "freeTierYes": "Sí (al exportar)"
+    }
+  },
+  "payment": {
+    "success": {
+      "title": "¡Pago Exitoso!",
+      "message": "Tus tokens han sido añadidos a tu cuenta.",
+      "tokensAdded": "Tokens Añadidos",
+      "cta": "Comenzar a Eliminar Fondos"
+    }
+  },
+  "footer": {
+    "tagline": "Eliminador de Fondo IA Gratis",
+    "alternative": "Una mejor alternativa a Photoroom. Eliminación de fondo gratis, sin registro."
+  }
+}

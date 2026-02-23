@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "pricing": "가격"
+  },
+  "hero": {
+    "title": "배경 즉시 제거",
+    "subtitle": "AI 기반 배경 제거. 무료, 빠름, 가입 불필요. 최고의 Photoroom 대안.",
+    "features": {
+      "free": "무료 사용",
+      "noSignup": "가입 불필요",
+      "noWatermark": "워터마크 없음"
+    }
+  },
+  "upload": {
+    "title": "이미지를 여기에 드롭하세요",
+    "hint": "또는 클릭하여 선택 (PNG, JPG, WEBP)"
+  },
+  "preview": {
+    "original": "원본",
+    "result": "결과",
+    "placeholder": "'배경 제거'를 클릭하여 결과 확인"
+  },
+  "actions": {
+    "removeBackground": "배경 제거",
+    "processing": "처리 중...",
+    "download": "PNG 다운로드",
+    "tryAnother": "다른 이미지 시도"
+  },
+  "status": {
+    "remainingTokens": "무료 사용 {{count}}회 남음"
+  },
+  "errors": {
+    "invalidFile": "유효한 이미지 파일을 업로드해주세요",
+    "processingFailed": "처리 실패. 다시 시도해주세요."
+  },
+  "seo": {
+    "title": "왜 BgGone을 선택해야 할까요?",
+    "description": "BgGone은 Photoroom의 최고의 무료 대안입니다. AI 도구로 몇 초 만에 모든 이미지의 배경을 제거하세요.",
+    "features": {
+      "instant": {
+        "title": "즉각적인 결과",
+        "description": "AI가 몇 초 안에 이미지를 처리합니다. 기다릴 필요 없습니다."
+      },
+      "free": {
+        "title": "진정한 무료",
+        "description": "숨겨진 비용 없음, 워터마크 없음, 강제 가입 없음."
+      },
+      "quality": {
+        "title": "전문가 품질",
+        "description": "고급 AI가 깔끔한 엣지와 정밀한 컷아웃을 보장합니다."
+      }
+    }
+  },
+  "pricing": {
+    "title": "간단하고 투명한 가격",
+    "subtitle": "한 번 결제, 영구 사용. 구독 없음.",
+    "popular": "가장 인기",
+    "comparison": {
+      "title": "BgGone vs Photoroom",
+      "feature": "기능",
+      "freeUses": "무료 사용 횟수",
+      "signup": "가입 필요",
+      "watermark": "무료 워터마크",
+      "paidPrice": "유료 가격",
+      "yes": "예",
+      "no": "아니오",
+      "freeTierYes": "예 (내보내기 시)"
+    }
+  },
+  "payment": {
+    "success": {
+      "title": "결제 성공!",
+      "message": "토큰이 계정에 추가되었습니다.",
+      "tokensAdded": "추가된 토큰",
+      "cta": "배경 제거 시작"
+    }
+  },
+  "footer": {
+    "tagline": "무료 AI 배경 제거 도구",
+    "alternative": "더 나은 Photoroom 대안. 무료 배경 제거, 가입 불필요."
+  }
+}

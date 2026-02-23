@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "pricing": "Pricing"
+  },
+  "hero": {
+    "title": "Remove Background Instantly",
+    "subtitle": "AI-powered background removal. Free, fast, no signup required. The best Photoroom alternative.",
+    "features": {
+      "free": "Free to use",
+      "noSignup": "No signup required",
+      "noWatermark": "No watermark"
+    }
+  },
+  "upload": {
+    "title": "Drop your image here",
+    "hint": "or click to browse (PNG, JPG, WEBP)"
+  },
+  "preview": {
+    "original": "Original",
+    "result": "Result",
+    "placeholder": "Click 'Remove Background' to see the magic"
+  },
+  "actions": {
+    "removeBackground": "Remove Background",
+    "processing": "Processing...",
+    "download": "Download PNG",
+    "tryAnother": "Try Another Image"
+  },
+  "status": {
+    "remainingTokens": "{{count}} free uses remaining"
+  },
+  "errors": {
+    "invalidFile": "Please upload a valid image file",
+    "processingFailed": "Failed to process image. Please try again."
+  },
+  "seo": {
+    "title": "Why Choose BgGone?",
+    "description": "BgGone is the best free alternative to Photoroom. Remove backgrounds from any image in seconds with our AI-powered tool.",
+    "features": {
+      "instant": {
+        "title": "Instant Results",
+        "description": "Our AI processes your images in seconds, not minutes. No waiting around."
+      },
+      "free": {
+        "title": "Truly Free",
+        "description": "No hidden fees, no watermarks, no forced signup. Just upload and go."
+      },
+      "quality": {
+        "title": "Pro Quality",
+        "description": "Advanced AI ensures clean edges and precise cutouts, even for complex images."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Simple, Transparent Pricing",
+    "subtitle": "Pay once, use forever. No subscriptions.",
+    "popular": "Most Popular",
+    "comparison": {
+      "title": "BgGone vs Photoroom",
+      "feature": "Feature",
+      "freeUses": "Free Uses",
+      "signup": "Signup Required",
+      "watermark": "Watermark on Free",
+      "paidPrice": "Paid Pricing",
+      "yes": "Yes",
+      "no": "No",
+      "freeTierYes": "Yes (on exports)"
+    }
+  },
+  "payment": {
+    "success": {
+      "title": "Payment Successful!",
+      "message": "Your tokens have been added to your account.",
+      "tokensAdded": "Tokens Added",
+      "cta": "Start Removing Backgrounds"
+    }
+  },
+  "footer": {
+    "tagline": "Free AI Background Remover",
+    "alternative": "A better Photoroom alternative. Free background removal, no signup required."
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "pricing": "Tarifs"
+  },
+  "hero": {
+    "title": "Supprimez l'Arrière-Plan Instantanément",
+    "subtitle": "Suppression d'arrière-plan par IA. Gratuit, rapide, sans inscription. La meilleure alternative à Photoroom.",
+    "features": {
+      "free": "Gratuit",
+      "noSignup": "Sans inscription",
+      "noWatermark": "Sans filigrane"
+    }
+  },
+  "upload": {
+    "title": "Déposez votre image ici",
+    "hint": "ou cliquez pour parcourir (PNG, JPG, WEBP)"
+  },
+  "preview": {
+    "original": "Original",
+    "result": "Résultat",
+    "placeholder": "Cliquez sur 'Supprimer l'arrière-plan' pour voir le résultat"
+  },
+  "actions": {
+    "removeBackground": "Supprimer l'Arrière-Plan",
+    "processing": "Traitement...",
+    "download": "Télécharger PNG",
+    "tryAnother": "Essayer une Autre Image"
+  },
+  "status": {
+    "remainingTokens": "{{count}} utilisations gratuites restantes"
+  },
+  "errors": {
+    "invalidFile": "Veuillez télécharger un fichier image valide",
+    "processingFailed": "Échec du traitement. Veuillez réessayer."
+  },
+  "seo": {
+    "title": "Pourquoi Choisir BgGone?",
+    "description": "BgGone est la meilleure alternative gratuite à Photoroom. Supprimez l'arrière-plan de n'importe quelle image en quelques secondes avec notre outil IA.",
+    "features": {
+      "instant": {
+        "title": "Résultats Instantanés",
+        "description": "Notre IA traite vos images en secondes, pas en minutes."
+      },
+      "free": {
+        "title": "Vraiment Gratuit",
+        "description": "Pas de frais cachés, pas de filigrane, pas d'inscription forcée."
+      },
+      "quality": {
+        "title": "Qualité Pro",
+        "description": "L'IA avancée assure des bords nets et des découpes précises."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Tarification Simple et Transparente",
+    "subtitle": "Payez une fois, utilisez pour toujours. Pas d'abonnement.",
+    "popular": "Plus Populaire",
+    "comparison": {
+      "title": "BgGone vs Photoroom",
+      "feature": "Fonctionnalité",
+      "freeUses": "Utilisations Gratuites",
+      "signup": "Inscription Requise",
+      "watermark": "Filigrane Gratuit",
+      "paidPrice": "Prix Payant",
+      "yes": "Oui",
+      "no": "Non",
+      "freeTierYes": "Oui (à l'export)"
+    }
+  },
+  "payment": {
+    "success": {
+      "title": "Paiement Réussi!",
+      "message": "Vos jetons ont été ajoutés à votre compte.",
+      "tokensAdded": "Jetons Ajoutés",
+      "cta": "Commencer à Supprimer les Arrière-Plans"
+    }
+  },
+  "footer": {
+    "tagline": "Suppresseur d'Arrière-Plan IA Gratuit",
+    "alternative": "Une meilleure alternative à Photoroom. Suppression gratuite d'arrière-plan, sans inscription."
+  }
+}
